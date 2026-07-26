@@ -1,0 +1,24 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.fab.com/.well-known/
+host: https://www.fab.com
+notes: >-
+  fab.com 301-redirects to www.fab.com. The site sits behind Cloudflare bot
+  protection, which returns 403 to automated clients for HTML pages (including
+  /robots.txt); the /.well-known/ path is served without challenge. Statuses
+  below are the codes observed from a probe on 2026-07-20.
+documents:
+- path: /.well-known/security.txt
+  status: 200
+  file: fabcom-security.txt
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 403
+  note: Cloudflare bot challenge, not a published llms.txt

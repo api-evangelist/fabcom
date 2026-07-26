@@ -1,0 +1,30 @@
+# Fab.com
+
+> Fab is a digital content marketplace operated by Epic Games, where creators buy and sell 3D models, materials, environments, VFX, audio, and game-ready assets. Launched in October 2024, it consolidated the Unreal Engine Marketplace, Sketchfab Store, Quixel, and ArtStation Marketplace into one catalog with unified licensing, and integrates into Unreal Engine, UEFN, and the Epic Games Launcher.
+
+Fab publishes no public developer API, developer portal, or machine-readable API
+specification as of 2026-07-20. There is no OpenAPI, AsyncAPI, GraphQL schema,
+SDK, or CLI to describe. The links below are the real surfaces that exist.
+
+Note: two unrelated companies share this name. The a16z-backed Fab.com was a
+flash-sale design-commerce marketplace (2011-2015) that wound down; the fab.com
+domain today belongs to Epic Games' Fab. This document describes Epic's Fab.
+
+## Docs
+
+- [Fab documentation](https://dev.epicgames.com/documentation/en-us/fab/fab-documentation): Marketplace overview, publisher and buyer guides, asset format requirements, and Unreal Engine / UEFN / Launcher integration.
+- [Publisher get started](https://dev.epicgames.com/documentation/fab/publisher-get-started-in-fab): Onboarding path for creators listing and selling assets on Fab.
+
+## Support
+
+- [Fab support center](https://support.fab.com/s/?ProductOrigin=FabSupport): Help center for buyers and sellers.
+- [Epic Games service status](https://status.epicgames.com): Fab is monitored as a named component.
+
+## Security
+
+- [security.txt](https://www.fab.com/.well-known/security.txt): RFC 9116 contact record.
+- [Epic Games bug bounty](https://hackerone.com/epicgames): Vulnerability disclosure via HackerOne; also https://hackerone.com/epicgames-vdp. Contact security@epicgames.com.
+
+## Specs
+
+None published.

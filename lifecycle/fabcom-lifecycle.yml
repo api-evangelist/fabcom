@@ -1,0 +1,24 @@
+generated: '2026-07-20'
+method: searched
+source: https://status.epicgames.com
+status_page: https://status.epicgames.com
+status_page_component: Fab
+status_page_notes: >-
+  Fab does not run a dedicated status page; it is monitored as a named component
+  on Epic Games' company-wide status page alongside Epic Games Store, Unreal
+  Engine, UEFN, Quixel, Sketchfab, and ArtStation. Verified 200 and the "Fab
+  Operational" component observed on 2026-07-20.
+versioning: null
+versioning_notes: >-
+  No public API versioning policy — Fab publishes no developer API. Product
+  release notes are carried through Epic's Fab documentation and community
+  channels rather than a versioned API changelog.
+deprecation: null
+deprecation_notes: >-
+  No published API deprecation policy or RFC 8594 Sunset/Deprecation header
+  support found; Fab has no public API contract to deprecate. Epic did retire the
+  predecessor storefronts (Unreal Engine Marketplace, Sketchfab Store, Quixel,
+  ArtStation Marketplace) into Fab in October 2024, but that is a product
+  consolidation, not an API deprecation policy.
+sla: null
+deprecated_operations: []

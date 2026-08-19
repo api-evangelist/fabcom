@@ -39,7 +39,7 @@ x-identity-note: >-
   digital-asset marketplace, which is what was probed and described in this
   profile. No API artifacts are attributed to the defunct a16z-backed entity.
 x-api-surface: none-published
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:

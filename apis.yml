@@ -52,7 +52,7 @@ x-identity-note: >-
 x-api-surface: none-published
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-10-06'
 tags:
 - Company
 - Marketplace
@@ -75,6 +75,8 @@ tags_raw:
 - Epic Games
 apis: []
 common:
+- url: https://www.fab.com/o/news
+  type: Blog
 - type: DomainSecurity
   url: security/fabcom-domain-security.yml
 - type: Website

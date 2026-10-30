@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fab.com is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Fab.com is a digital content marketplace operated by Epic Games, where creators buy and sell 3D models, materials, environments, VFX, audio, and game-ready assets. Launched in October 2024, Fab consolidated four of Epic's prior storefronts — the Unreal Engine Marketplace, the Sketchfab Store, Quixel, and the ArtStation Marketplace — into a single catalog with unified licensing, and integrates into Unreal Engine, UEFN, and the Epic Games Launcher. The fabcom entry was originally added to the API Evangelist network as an a16z portfolio lead for the earlier, unrelated Fab.com flash-sale design-commerce company (2011–2015), which wound down before the domain passed to Epic Games; see x-identity-note. Fab publishes no public developer API, developer portal, or machine-readable specification as of this pass — the surface captured here is its documentation, support, and security-disclosure posture.
 
-Backed by: a16z
+**Areas:** Company · Marketplace · Digital Assets · 3D Content · Game Development · Creator Economy · E-Commerce · Unreal Engine · Epic Games
+
+## Fab.com on APIs.io
+
+Everything profiled for Fab.com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fabcom/](https://apis.io/providers/fabcom/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fabcom Domain Security](https://apis.io/security/fabcom/fabcom-domain-security/)
+- [Fabcom Vulnerability Disclosure](https://apis.io/security/fabcom/fabcom-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.fab.com/)
+- [Documentation](https://dev.epicgames.com/documentation/en-us/fab/fab-documentation)
+- [Getting started](https://dev.epicgames.com/documentation/fab/publisher-get-started-in-fab)
+- [Support](https://support.fab.com/s/?ProductOrigin=FabSupport)
+- [Blog](https://www.fab.com/o/news)
+- [Security](https://hackerone.com/epicgames)
+- [Status](https://status.epicgames.com)
+
+## API Evangelist rating
+
+**Kin Score 13.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fabcom/](https://apis.io/providers/fabcom/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fab.com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fabcom/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
